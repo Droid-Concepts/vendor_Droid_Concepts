@@ -8,3 +8,4 @@ add_lunch_combo dc_mako-userdebug
 add_lunch_combo dc_n8013-userdebug
 add_lunch_combo dc_toro-userdebug
 add_lunch_combo dc_xt926-userdebug
+add_lunch_combo dc_xt907-userdebug
