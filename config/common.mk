@@ -95,6 +95,14 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/Droid_Concepts/config/permissions/com.cyanogenmod.android.xml:system/etc/permissions/com.cyanogenmod.android.xml
 
+# Common Applications
+PRODUCT_COPY_FILES += \
+     vendor/Droid_Concepts/prebuit/droid_concepts/app/Superuser.apk:system/app/Superuser.apk 
+
+# Common Binary files
+PRODUCT_COPY_FILES += \
+    vendor/Droid_Concepts/prebuilt/droid_concepts/xbin/su:system/xbin/su 
+
 # Don't export PS1 in /system/etc/mkshrc.
 PRODUCT_COPY_FILES += \
     vendor/Droid_Concepts/prebuilt/common/etc/mkshrc:system/etc/mkshrc
