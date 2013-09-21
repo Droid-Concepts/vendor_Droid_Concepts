@@ -97,7 +97,7 @@ PRODUCT_COPY_FILES += \
 
 # Common Applications
 PRODUCT_COPY_FILES += \
-     vendor/Droid_Concepts/prebuit/droid_concepts/app/Superuser.apk:system/app/Superuser.apk 
+     vendor/Droid_Concepts/prebuilt/droid_concepts/app/Superuser.apk:system/app/Superuser.apk 
 
 # Common Binary files
 PRODUCT_COPY_FILES += \
