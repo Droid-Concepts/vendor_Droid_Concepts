@@ -110,9 +110,4 @@ PRODUCT_COPY_FILES += \
     vendor/Droid_Concepts/prebuilt/droid_concepts/face/vendor/pittpatt/models/detection/yaw_roll_face_detectors.6/head-y0-yi45-p0-pi45-rp30-ri30.5-v24.bin:system/vendor/pittpatt/models/detection/yaw_roll_face_detectors.6/head-y0-yi45-p0-pi45-rp30-ri30.5-v24.bin \
     vendor/Droid_Concepts/prebuilt/droid_concepts/face/vendor/pittpatt/models/recognition/face.face.y0-y0-22-b-N.bin:system/vendor/pittpatt/models/recognition/
 
-# DC Prebuilts
-#
-#
-PRODUCT_COPY_FILES += \
-    vendor/Droid_Concepts/prebuilt/droid_concepts/app/ApexLauncher.apk:system/app/ApexLauncher.apk \
-    vendor/Droid_Concepts/prebuilt/droid_concepts/app/TricksterMod.apk:system/app/TricksterMod.apk
+
