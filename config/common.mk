@@ -124,7 +124,8 @@ PRODUCT_PACKAGES += \
     VideoEditor \
     VoiceDialer \
     SoundRecorder \
-    Basic
+    Basic \
+    Launcher3
 
 # Custom Droid_Concepts packages
 PRODUCT_PACKAGES += \
@@ -134,7 +135,7 @@ PRODUCT_PACKAGES += \
     audio_effects.conf \
     DCWallpapers \
     DCFileManager \
-    LockClock 
+    LockClock  
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
