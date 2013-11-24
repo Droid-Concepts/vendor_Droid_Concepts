@@ -91,6 +91,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     frameworks/base/data/keyboards/Vendor_045e_Product_028e.kl:system/usr/keylayout/Vendor_045e_Product_0719.kl
 
+# Common Binary files
+PRODUCT_COPY_FILES += \
+    vendor/Droid_Concepts/prebuilt/droid_concepts/xbin/su:system/xbin/su
+
 # This is Droid_Concepts!
 PRODUCT_COPY_FILES += \
     vendor/Droid_Concepts/config/permissions/com.cyanogenmod.android.xml:system/etc/permissions/com.cyanogenmod.android.xml
