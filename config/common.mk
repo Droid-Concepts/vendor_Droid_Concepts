@@ -1,7 +1,7 @@
 PRODUCT_BRAND ?= droid_concepts
 
 SUPERUSER_EMBEDDED := true
-SUPERUSER_PACKAGE_PREFIX := com.android.settings.dc.superuser
+SUPERUSER_PACKAGE_PREFIX := com.android.settings.cyanogenmod.superuser
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.rommanager.developerid=droid_concepts
