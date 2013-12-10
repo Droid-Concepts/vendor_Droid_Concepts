@@ -104,8 +104,6 @@ include vendor/Droid_Concepts/config/themes_common.mk
 
 # Required Droid_Concepts packages
 PRODUCT_PACKAGES += \
-    Focal \
-    Development \
     LatinIME \
     Superuser \
     su
@@ -121,12 +119,10 @@ PRODUCT_PACKAGES += \
 
 # Custom Droid_Concepts packages
 PRODUCT_PACKAGES += \
-    DCFileManager \
     DSPManager \
     libcyanogen-dsp \
     audio_effects.conf \
     DCWallpapers \
-    DCFileManager \
     LockClock  
 
 # CM Hardware Abstraction Framework
